@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884311052393",
+    "firebase_url": "https://oregram-c9fd6.firebaseio.com",
+    "project_id": "oregram-c9fd6",
+    "storage_bucket": "oregram-c9fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884311052393:android:42241c64ddb250fa92d2f8",
+        "android_client_info": {
+          "package_name": "com.javeedishaq.oregram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884311052393-lfj96ipjmu3ohdqn8sov9mahmjqcmehd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.javeedishaq.oregram",
+            "certificate_hash": "6599ffa6ee1003ecd8f04ebd70321eb5be3dc491"
+          }
+        },
+        {
+          "client_id": "884311052393-6pgckoqj7dck2a52gv8785gd3a7ft4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtocR_cuYO_CIB4m79eu0GorBwuYCVGyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884311052393-6pgckoqj7dck2a52gv8785gd3a7ft4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
